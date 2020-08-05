@@ -14,4 +14,4 @@
 <br/> 💬 &nbsp; Sobre mim: Curto músicas dos anos 80, quadrinhos e games.
 <br/> :email: &nbsp; Para entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JadeGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jade-m-garcia/)](https://www.linkedin.com/in/jade-m-garcia/)
 |
-![Gmail Badge](https://img.shields.io/badge/jadegarcia.seo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadegarcia.seo@gmail.com)](mailto:jadegarcia.seo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/jadegarcia.seo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jadegarcia.seo@gmail.com)](mailto:jadegarcia.seo@gmail.com)
